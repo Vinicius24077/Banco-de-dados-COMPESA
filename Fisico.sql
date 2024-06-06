@@ -153,7 +153,7 @@ VALUES
 (5, 'Religar unidade (furto, manutenção)', true),
 (6, 'Desligamento Programado Neoenergia', true),
 (7, 'Problema Interno', true);*/
-											 /*INSERTS DE USUARIO*/
+											 /*INSERTS DE USUARIOS DE EXEMPLO APENAS PARA GERAR AS OCORRENCIAS*/
 /*INSERT INTO usuario (ID_Usuario, Nome, Email, Telefone) VALUES
 (1, 'João Silva', 'joao@example.com', '123456789'),
 (2, 'Maria Santos', 'maria@example.com', '987654321'),
